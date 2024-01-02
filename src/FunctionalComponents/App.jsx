@@ -8,10 +8,10 @@ export default function App(){
   const [language,setLanguage]=useState("hi")
   const [search,setSearch]=useState("")
  
- const  changeLanguage = (data)=>{
+ const  changeLanguage= (data)=>{
     setLanguage(data)
   }
-  const changeSearch = (data)=>{
+  const changeSearch= (data)=>{
     setSearch(data)
   }
  

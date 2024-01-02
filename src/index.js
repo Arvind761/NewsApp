@@ -1,5 +1,5 @@
 import ReactDOM  from "react-dom/client"
-import App from "./ClassComponents/App"
+import App from "./FunctionalComponents/App"
 
 
 var root= ReactDOM.createRoot(document.getElementById("root"))
